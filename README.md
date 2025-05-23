@@ -30,9 +30,9 @@ The **Superhero-App** is a web-based project designed to showcase iconic superhe
 This project was developed by participants of the FNB App Academy in partnership with IT Varsity, as a demonstration of core web development skills.
 
 🙌 Acknowledgements
-FNB App Academy – For empowering youth with digital skills.
 
-IT Varsity – For providing technical training and mentorship.
+- **FNB App Academy** – For empowering youth with digital skills.
+- **IT Varsity** – For providing technical training and mentorship.
 
 
 
