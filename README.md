@@ -4,6 +4,9 @@
 
 The **Superhero-App** is a web-based project designed to showcase iconic superheroes in a visually appealing and responsive gallery format. Built using only **HTML** and **CSS**, this project demonstrates foundational front-end development skills learned through the FNB App Academy and IT Varsity program.
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/64ca6486-b65b-4585-bf88-9c2f63d5c7b9)
+
 ---
 
 ## 🌟 Features
