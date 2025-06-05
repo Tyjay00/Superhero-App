@@ -42,3 +42,13 @@ p{
 .menu a:hover{
     color: blue;
 }
+
+.centered-footer {
+    text-align: center; /* Centers the text horizontally */
+    padding: 20px 0; /* Add some vertical padding for better spacing */
+    margin-top: 30px; /* Add some space above the footer */
+    /* You might want to add a background-color or border-top for visual separation */
+    /* background-color: #f0f0f0; */
+    /* border-top: 1px solid #ccc; */
+    color: cornflowerblue;
+}
