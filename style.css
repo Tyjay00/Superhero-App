@@ -1,54 +1,61 @@
-.gallery img{
-    width: 100%;
+/* Styles for images within a gallery container */
+.gallery img {
+    width: 100%; /* Ensures images take up the full width of their parent container */
 }
 
-.name{
-    font-family: Impact, fantasy;
-    text-align: center;
-    font-size: 30px;
-    color: cornflowerblue;
-    font-style: italic;
-}
-
-.bio{
-    font-family: Impact, fantasy;
-    font-size: 20px;
-    font-style: italic;
-    color:cornflowerblue;
-}
-
-p{
-    font-family: Helvetica, sans-serif;
-}
-
-.menu{
-    width: 100%;
-    height: 40px;
-    background-color: cornflowerblue;
-    padding-top: 12px;
-}
-
-.menu a{
-    color: white;
-    font-family: Arial Helvetica, sans-serif;
-    font-size: 18px;
-    text-decoration: none;
-    font-weight: 800;
-    padding-left: 20px;
-    padding-right: 20px;
-
-}
-
-.menu a:hover{
-    color: blue;
-}
-
-.centered-footer {
+/* Styles for an element displaying a name, likely a heading */
+.name {
+    font-family: Impact, fantasy; /* Sets the font to Impact, with a fallback to any generic fantasy font */
     text-align: center; /* Centers the text horizontally */
-    padding: 20px 0; /* Add some vertical padding for better spacing */
-    margin-top: 30px; /* Add some space above the footer */
+    font-size: 30px; /* Sets the font size to 30 pixels */
+    color: cornflowerblue; /* Sets the text color to cornflowerblue */
+    font-style: italic; /* Applies italic styling to the text */
+}
+
+/* Styles for a biographical text element */
+.bio {
+    font-family: Impact, fantasy; /* Sets the font to Impact, with a fallback to any generic fantasy font */
+    font-size: 20px; /* Sets the font size to 20 pixels */
+    font-style: italic; /* Applies italic styling to the text */
+    color: cornflowerblue; /* Sets the text color to cornflowerblue */
+}
+
+/* Default font styles for all paragraph elements */
+p {
+    font-family: Helvetica, sans-serif; /* Sets the font to Helvetica, with a fallback to any generic sans-serif font */
+}
+
+/* Styles for a navigation menu container */
+.menu {
+    width: 100%; /* Makes the menu take up the full width of its parent */
+    height: 40px; /* Sets a fixed height for the menu */
+    background-color: cornflowerblue; /* Sets the background color of the menu */
+    padding-top: 12px; /* Adds 12 pixels of padding to the top, useful for vertical alignment of text */
+}
+
+/* Styles for anchor links within the menu */
+.menu a {
+    color: white; /* Sets the text color of the links to white */
+    font-family: Arial, Helvetica, sans-serif; /* Sets the font for menu links */
+    font-size: 18px; /* Sets the font size for menu links */
+    text-decoration: none; /* Removes the default underline from links */
+    font-weight: 800; /* Makes the text bold with a specific weight */
+    padding-left: 20px; /* Adds 20 pixels of padding to the left of each link */
+    padding-right: 20px; /* Adds 20 pixels of padding to the right of each link */
+}
+
+/* Styles for menu links when hovered over */
+.menu a:hover {
+    color: blue; /* Changes the text color to blue when the link is hovered */
+}
+
+/* Styles for a centered footer section */
+.centered-footer {
+    text-align: center; /* Centers the text horizontally within the footer */
+    padding: 20px 0; /* Adds 20 pixels of vertical padding (top and bottom) and no horizontal padding */
+    margin-top: 30px; /* Adds 30 pixels of space above the footer */
     /* You might want to add a background-color or border-top for visual separation */
-    /* background-color: #f0f0f0; */
-    /* border-top: 1px solid #ccc; */
-    color: cornflowerblue;
+    /* background-color: #f0f0f0; */ /* Example: light grey background color */
+    /* border-top: 1px solid #ccc; */ /* Example: a thin light grey border at the top */
+    color: cornflowerblue; /* Sets the text color for the footer */
 }
